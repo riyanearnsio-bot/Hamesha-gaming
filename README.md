@@ -214,7 +214,7 @@ body{
 
     <a
         class="install"
-        href="https://1024terabox.com/s/1Y1vlBPHabnWKhw8YI1Fvlw"
+        href="https://1024terabox.com/s/1KpOCmxgq-nRc8c0Spz7tyw"
         target="_blank"
         rel="noopener noreferrer">
 
