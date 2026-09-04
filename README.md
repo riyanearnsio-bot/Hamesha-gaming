@@ -1,5 +1,3 @@
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -312,4 +310,3 @@ setInterval(() => {
 
 </body>
 </html>
-```
